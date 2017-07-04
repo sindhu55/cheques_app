@@ -1,4 +1,5 @@
-# cheques_app
+## Cheques App
+
 This App will show the list of Cheques and details about the Cheque
 
 Below are the Technologies and libraries used
